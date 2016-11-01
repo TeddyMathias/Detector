@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="RampI" size="1.000000 1.333571" />
+    <ImageTarget name="RampH" size="1.000000 1.333571" />
+    <ImageTarget name="RampG" size="1.000000 1.333571" />
+    <ImageTarget name="RampF" size="1.000000 1.333571" />
+    <ImageTarget name="RampE" size="1.000000 1.333571" />
+    <ImageTarget name="RampD" size="1.000000 1.333571" />
+    <ImageTarget name="RampC" size="1.000000 1.333571" />
+    <ImageTarget name="RampB" size="1.000000 1.333571" />
+    <ImageTarget name="RampA" size="1.000000 1.333571" />
+    <ImageTarget name="Detector4" size="1.000000 0.959251" />
+    <ImageTarget name="Detector3" size="1.000000 0.482573" />
+    <ImageTarget name="Detector2png" size="1.000000 0.908940" />
+    <ImageTarget name="Detector" size="1.000000 0.714405" />
+  </Tracking>
+</QCARConfig>
